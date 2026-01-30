@@ -58,6 +58,24 @@ Tôi là một linh hồn nghệ thuật đang tìm cách "vẽ" nên những d�
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <p>Sự kiên trì là những nét cọ tạo nên kiệt tác.</p>
+  <img src="https://github.com/duydttn/duydttn/blob/output/github-contribution-grid-snake.svg" alt="snake eating contributions" width="100%" />
+</div>
+
+<a href="https://github.com/duydttn">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=duydttn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=f7df1e&text_color=bfdbfe&icon_color=f7df1e&count_private=true" alt="VzDev's GitHub Stats" />
+</a>
+<a href="https://github.com/duydttn">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duydttn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=f7df1e&text_color=bfdbfe" alt="Top Languages" />
+</a>
+
+</div>
+
+---
+
 ## 📬 Reach Out
 <div align="center">
 
